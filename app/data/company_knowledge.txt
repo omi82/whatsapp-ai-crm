@@ -1,0 +1,68 @@
+COMPANY NAME
+Omendra AI Support
+
+ABOUT US
+Omendra AI Support provides AI solutions, data analytics services, software development, and WhatsApp automation for businesses.
+
+SERVICES
+
+1. AI SOLUTIONS
+- AI Chatbots
+- RAG Applications
+- AI Agents
+- LLM Integrations
+- OpenAI Integrations
+- Mistral AI Integrations
+
+2. DATA ANALYTICS
+- SQL Development
+- Dashboard Creation
+- Power BI
+- Metabase
+- Data Visualization
+- Business Reporting
+
+3. SOFTWARE DEVELOPMENT
+- FastAPI Development
+- REST APIs
+- Python Applications
+- Backend Development
+- Database Design
+
+4. WHATSAPP AUTOMATION
+- WhatsApp AI Chatbots
+- Lead Qualification
+- Customer Support Automation
+- Appointment Booking Bots
+- CRM Integration
+
+TECHNOLOGIES
+
+- Python
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+- SQLite
+- LangChain
+- FAISS
+- OpenAI
+- Mistral AI
+
+CONTACT DETAILS
+
+Email:
+omendra8285@gmail.com
+
+Phone:
+8285808465
+
+FREQUENTLY ASKED QUESTIONS
+
+Q: What services do you provide?
+A: AI Solutions, Data Analytics, Software Development, and WhatsApp Automation.
+
+Q: How can I contact your team?
+A: Email omendra8285@gmail.com or call 8285808465.
+
+Q: Do you build AI chatbots?
+A: Yes. We build AI chatbots using OpenAI, Mistral AI, LangChain and RAG.
